@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning React JS, Laravel PHP and Mysql.
 <div> <br>
   <a href="https://github.com/mateus124">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus124&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus124&show_icons=true&theme=midnight-purple&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus124&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>

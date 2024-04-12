@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Mateus Alves 👋
-- 🔭 Front-end Developer.
+- 🔭 Full-Stack Developer.
 - 🌱 I'm currently learning React JS, Laravel PHP and Mysql.
 <div> <br>
   <a href="https://github.com/mateus124">

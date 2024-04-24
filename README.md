@@ -6,7 +6,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="170" width="390" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateus124&layout=compact&langs_count=7&theme=midnight-purple"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin: -4.7em">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin: -40px;">
     <img height="120" width="370" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus124&layout=compact&langs_count=7&theme=midnight-purple"/>
   </a>
 </div>

@@ -2,7 +2,7 @@
 - 🔭 Full-Stack Developer.
 - 🌱 I'm currently learning React JS, Laravel PHP and Mysql.
 <div> <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mateus124&layout=compact&langs_count=7&theme=midnight-purple"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus124&layout=compact&langs_count=7&theme=midnight-purple"/>
   </a>

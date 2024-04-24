@@ -5,9 +5,9 @@
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="170" width="390" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateus124&layout=compact&langs_count=7&theme=midnight-purple"/>
-	</a>
+  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" width="370" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus124&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img height="120" width="370" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus124&layout=compact&langs_count=7&theme=midnight-purple"/>
   </a>
 </div>
 <div style="display: inline_block"><br>

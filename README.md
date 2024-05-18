@@ -1,7 +1,7 @@
 ## Hello guys, i am Mateus Alves, a technology student 🤓👋
 
 - 🔭 Full-Stack Developer.
-- 🌱 I'm currently learning React JS, Laravel PHP and Mysql.
+- 🌱 I'm currently learning React JS, Laravel and Mysql.
 
 <div><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">

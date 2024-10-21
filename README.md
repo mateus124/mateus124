@@ -1,6 +1,6 @@
 ## Hello guys, i am Mateus Alves, a technology student 👋
 
-- 🔭 Full-Stack Developer.
+- 🔭 Front-End Developer.
 - 🌱 I'm currently learning React JS, Laravel and Mysql.
 
 <div><br>

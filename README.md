@@ -1,7 +1,7 @@
 ## Hello guys, i am Mateus Alves, a technology student 👋
 
 - 🔭 Front-End Developer.
-- 🌱 I'm currently learning React JS, NodeJS and Sql databases.
+- 🌱 I'm currently learning React JS, NodeJS and databases.
 
 <div><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
